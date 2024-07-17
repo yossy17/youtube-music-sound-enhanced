@@ -24,4 +24,3 @@
 ## ライセンス
 
 このプロジェクトはMITライセンスの下で公開されています。
-# youtube-music-sound-enhanced
