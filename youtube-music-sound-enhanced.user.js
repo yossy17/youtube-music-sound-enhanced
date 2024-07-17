@@ -13,7 +13,7 @@
 // @description:ko      YouTube Music의 볼륨 슬라이더 범위를 조정하여 로그 또는 지수 스케일링을 사용하여 소리를 향상시킵니다.
 // @description:ru      Измените диапазон ползунка громкости YouTube Music, улучшив звук с использованием логарифмической или экспоненциальной шкалы.
 // @description:de      Passen Sie den Lautstärkereglerbereich von YouTube Music an und verbessern Sie den Klang mit logarithmischer oder exponentieller Skalierung.
-// @version             1.0.5
+// @version             1.0.6
 // @author              Yos_sy17
 // @match               https://music.youtube.com/*
 // @namespace           http://tampermonkey.net/
